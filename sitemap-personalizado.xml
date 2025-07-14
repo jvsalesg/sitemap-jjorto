@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Páginas estáticas principais -->
+  <url>
+    <loc>https://www.jjorto.com.br/p/extracao.html</loc>
+  </url>
+  <url>
+    <loc>https://www.jjorto.com.br/p/restauracao.html</loc>
+  </url>
+  <url>
+    <loc>https://www.jjorto.com.br/p/limpeza.html</loc>
+  </url>
+  <url>
+    <loc>https://www.jjorto.com.br/p/equipe.html</loc>
+  </url>
+  <url>
+    <loc>https://www.jjorto.com.br/p/clareamento.html</loc>
+  </url>
+  <url>
+    <loc>https://www.jjorto.com.br/p/servicos.html</loc>
+  </url>
+  <url>
+    <loc>https://www.jjorto.com.br/p/pacientes.html</loc>
+  </url>
+  <url>
+    <loc>https://www.jjorto.com.br/p/ortodontia.html</loc>
+  </url>
+  <url>
+    <loc>https://www.jjorto.com.br/p/contato.html</loc>
+  </url>
+
+</urlset>
